@@ -7,7 +7,7 @@
 #include <ctime>
 using namespace std; //observações abaixo
 
-struct temas  //struct de temas com 5 strings com vetor 20 || e sim, eu já fui otaku sem vida                                                              //, não julgue
+struct temas  //struct de temas com 5 strings com vetor 20 || e sim, eu já fui otaku sem vida 
 {                                                             //social, não julgue
     string animes[20]={"one piece","jojo","naruto","dragon ball","hellsing","gurren lagann","kill la kill",
     "mob psycho","monogatari","kimetsu no yaiba","evangelion","pokemon","tokyo ghoul","vinland saga",
@@ -68,12 +68,12 @@ int main(void)
     else
     resultado[i]='_';   
     }
-cout<<"     F O R K                                    \n";                                                        
-cout<<"   G A M E                                      \n";   //sim, eu sou um artista
-cout<<"   ______                                       \n";                                                           
+cout<<"     H A N G M A N                              \n";     //att do codigo, eu tinha colocado fork game, dá um desconto                                                      
+cout<<"   G A M E                                      \n";   //porque eu tava com o cérebro derretido
+cout<<"   ______                                       \n";                                                            
 cout<<"  |     |       pe     <- 0         Bom Jogo!   \n";                      
 cout<<"  |             ta        |/                    \n";                       
-cout<<"  |            torto     /|                     \n";                     
+cout<<"  |            torto     /|                     \n";       //sim, eu sou um artista              
 cout<<"  |                      _/\\_                  \n\n";       
  if(escolhatema==1)
  cout<<"tema: animes"<<endl; 
@@ -549,4 +549,3 @@ cout<<"⠀⢠⠖⢁⣴⡿⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
     return 0;                                         //eu mesmo, Frederico.
     //adieu amigos, se tiver algum bug aí, eu não percebi. tmj!
 }
-
